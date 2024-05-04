@@ -16,3 +16,4 @@ coefficients is tried by applying Artificial Neural Networks
 (ANNs) for different sets of Reynolds number. The code 
 implements a simple feed-forward neural network for a 
 regression problem using MATLAB.
+![image](https://github.com/the-h-b/predicting-NACA-airfoil/assets/129276639/1a62f72b-022f-42c3-8cc0-4f6c344ca702)
